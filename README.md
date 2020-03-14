@@ -6,7 +6,7 @@ Algorithms covered in this framework includes:
 * Plain Local Search
 * Varibale Local Search
 * Simulated Annealing
-* Genetic Algorithm
+* Genetic Algorithm  
 Several search operations are realized.
 
 As for visualization, the connection layouts would be displayed in a planar graph and could further generate GIF to show process of covergence dynamically. 
